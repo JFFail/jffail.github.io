@@ -158,6 +158,10 @@ h1.sub-heading {
   font-size: 50px;
 }
 
+.fa-dropbox {
+    font-size: 50px;
+}
+
 .cover-heading {
   color: #66ff00;
   font-family: 'VT323', monospace;
