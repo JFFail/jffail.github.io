@@ -55,7 +55,7 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 30px;
+  padding: 10px;
 }
 
 
@@ -109,11 +109,10 @@ body {
 @media (min-width: 768px) {
   /* Pull out the header and footer */
   .masthead {
-    position: fixed;
+    /*position: fixed;*/
     top: 0;
   }
   .mastfoot {
-    position: fixed;
     bottom: 0;
   }
   /* Start the vertical centering */
@@ -167,4 +166,9 @@ h1.sub-heading {
   font-family: 'VT323', monospace;
   font-size: 46px;
   font-style: bold;
+}
+
+.myimage {
+  clear: both;
+  margin: auto;
 }
