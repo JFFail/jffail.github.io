@@ -55,7 +55,7 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 10px;
+  padding: 40px;
 }
 
 
@@ -153,7 +153,7 @@ h1.sub-heading {
   font-size: 50px;
 }
 
-.fa-linkedin-square {
+.fa-linkedin {
   font-size: 50px;
 }
 
@@ -166,9 +166,4 @@ h1.sub-heading {
   font-family: 'VT323', monospace;
   font-size: 46px;
   font-style: bold;
-}
-
-.myimage {
-  clear: both;
-  margin: auto;
 }
